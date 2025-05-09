@@ -1,9 +1,9 @@
-openai-whisper>=20231117
-sounddevice>=0.4.6
-numpy>=1.24.0
-torch>=2.0.0
+Open-AI-Whisper-Mic>=
+python-re>=
+python-os>=
+python-webbrowser>=
+
 google-generativeai>=0.3.0
-SpeechRecognition>=3.10.0
 pyttsx3>=2.90
 python-dotenv>=1.0.0 
 
